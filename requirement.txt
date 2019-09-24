@@ -1,0 +1,2 @@
+#install django version 2.1
+#create a virtual environment using command python3 -m venv myenv
